@@ -1,2 +1,2 @@
 this is a text file.
-in the bootcamp directory.
+we are learning hoe to use git.
